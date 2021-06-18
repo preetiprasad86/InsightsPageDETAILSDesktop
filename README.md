@@ -1,0 +1,2 @@
+# InsightsPageDETAILSDesktop
+Created with CodeSandbox
